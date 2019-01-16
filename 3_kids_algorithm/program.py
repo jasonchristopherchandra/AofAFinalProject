@@ -398,3 +398,9 @@ while True:
         lzw_main(lzw)
     elif algorithm == '3':
         sys.exit()
+        
+     
+#References:
+#http://www.cplusplus.com/articles/iL18T05o/#LossCoVsExp
+#http://warp.povusers.org/EfficientLZW/index.html
+#https://github.com/mckasza/mk_compress
